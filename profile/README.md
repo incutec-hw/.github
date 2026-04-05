@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/incutec-hw/.github/main/profile/wordmark-dark.png" alt="Incutec" width="400"/>
+  <img src="https://raw.githubusercontent.com/incutec-hw/.github/main/profile/incutec.png" alt="Incutec" width="400"/>
 </p>
 
 <p align="center">
